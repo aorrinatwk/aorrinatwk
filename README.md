@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nazib.
 - 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Graphic Designing cause beside coading I'm a Graphic Designer.
+- 💞️ I’m looking to collaborate projects that would help to overcome this pandemic situation.
 - 📫 Leave a text to reach me.
 
 <!---
