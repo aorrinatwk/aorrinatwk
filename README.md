@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @aorrinatwk
-- 👀 I’m interested in Artificial Programming and Machine Learning.
+- 👋 Hi, I’m Nazib.
+- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Graphic Designing cause beside coading I'm a Graphic Designer.
 - 📫 Leave a text to reach me.
